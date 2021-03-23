@@ -8,7 +8,6 @@ featured: true
 template: product
 default_thumbnail_image: images/plant9.jpg
 default_original_image: /images/nan_talk.jpg
-category: src/pages/category/cactuses.md
 ---
 
 # Fusce sagittis
