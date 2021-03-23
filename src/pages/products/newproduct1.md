@@ -1,6 +1,6 @@
 ---
 id: '9'
-title: Fusce sagittis
+title: Presentation Monitor
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 price: '400.00'
 order: 9
