@@ -2,7 +2,7 @@
 id: '9'
 title: Presentation Monitor
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
-price: '400.00'
+price: '4000'
 order: 9
 featured: true
 template: product
