@@ -6,13 +6,15 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: We are Big River
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    subtitle: >
+      This is actually pretty cool. This storefront is using
+      [Snipcart](http://bit.ly/2YB7AUL), a headless ecommerce tool that directly
+      integrates with this Gatsby headless storefront. It is built with
+      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder.
+      It's super easy to change the text and other content. It is also
+      interesting that the products aren't actually created in Snipcart - they
+      are defined here in the NetlifyCMS/Stackbit editor, where I can create a
+      new product that is then fetched into Snipcart. 
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
