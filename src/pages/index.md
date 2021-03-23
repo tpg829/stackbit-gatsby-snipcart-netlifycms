@@ -6,12 +6,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >
-      # Super easy headless storefront that just took 60 seconds to build
+    content: |
+      # Headless storefront that just took 60 seconds to build
 
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      I think this solution looks super nice. 
     actions:
       - type: action
         title: See all items
