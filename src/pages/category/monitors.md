@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: Monitors
 order: 4
 template: category
 ---
