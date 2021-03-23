@@ -1,7 +1,7 @@
 ---
 id: '9'
 title: Presentation Monitor
-description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
+description: You should totally buy this product. Now. Not tomorrow. Not in 5 minutes. NOW.
 price: '3999.99'
 order: 9
 featured: true
