@@ -2,7 +2,7 @@
 id: '9'
 title: Presentation Monitor
 description: You should totally buy this product. Now. Not tomorrow. Not in 5 minutes. NOW.
-price: '3999.99'
+price: '199'
 order: 9
 featured: true
 template: product
