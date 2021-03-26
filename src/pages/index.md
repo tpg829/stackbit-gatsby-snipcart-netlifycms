@@ -7,9 +7,9 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: |
-      # Headless storefront that just took 60 seconds to build
+      #
 
-      I think this solution looks super nice. 
+      Buy two cups of coffee now! I think this solution looks super nice.
     actions:
       - type: action
         title: See all items
